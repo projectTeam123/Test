@@ -1,4 +1,4 @@
-package com.zhouzhou;
+package zhouzhou;
 
 import java.awt.*;
 import javax.swing.*;

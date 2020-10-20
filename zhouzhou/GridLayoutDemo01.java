@@ -1,4 +1,4 @@
-package com.zhouzhou;
+package zhouzhou;
 import java.awt.GridLayout ;
 import javax.swing.JFrame ;
 import javax.swing.JButton ;

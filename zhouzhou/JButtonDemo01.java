@@ -1,4 +1,4 @@
-package com.zhouzhou;
+package zhouzhou;
 
 import javax.swing.JFrame ;
 import javax.swing.JButton ;

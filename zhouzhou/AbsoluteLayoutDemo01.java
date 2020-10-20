@@ -1,4 +1,4 @@
-package com.zhouzhou;
+package zhouzhou;
 
 import javax.swing.JFrame ;
 import javax.swing.JButton ;
@@ -8,7 +8,7 @@ public class AbsoluteLayoutDemo01{
 	public static void main(String args[]){
 		JFrame frame = new JFrame("Welcome To MLDN") ; 
 		frame.setLayout(null) ;
-		JLabel title = new JLabel("www.mldnjava.cn") ;
+		JLabel title = new JLabel("www.baidu.com") ;
 		JButton enter = new JButton("½øÈë") ;
 		JButton help = new JButton("°ïÖú") ;
 		frame.setSize(280,123) ;

@@ -1,4 +1,4 @@
-package com.zhouzhou;
+package zhouzhou;
 import java.awt.Dimension ;
 import java.awt.Color ;
 import java.awt.Point ;
