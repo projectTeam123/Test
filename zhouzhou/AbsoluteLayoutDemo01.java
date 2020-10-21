@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 package zhouzhou;
+=======
+//package zhouzhou;
+>>>>>>> Stashed changes
 
 import javax.swing.JFrame ;
 import javax.swing.JButton ;
